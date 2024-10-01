@@ -18,4 +18,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
