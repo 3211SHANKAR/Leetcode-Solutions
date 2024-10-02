@@ -29,4 +29,9 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [3540-hash-divided-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
+## Simulation
+|  |
+| ------- |
+| [3540-hash-divided-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
 <!---LeetCode Topics End-->
