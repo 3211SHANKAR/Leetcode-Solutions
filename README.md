@@ -6,14 +6,17 @@
 | ------- |
 | [0001-two-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
+| [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
+| [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
