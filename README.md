@@ -57,4 +57,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
