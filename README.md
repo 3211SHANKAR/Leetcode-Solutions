@@ -64,5 +64,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0461-hamming-distance) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
