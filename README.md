@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
@@ -27,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -41,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1923-sentence-similarity-iii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
