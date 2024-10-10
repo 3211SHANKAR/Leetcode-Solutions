@@ -18,6 +18,7 @@
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3463-alternating-groups-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0461-hamming-distance) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
 |  |
 | ------- |
