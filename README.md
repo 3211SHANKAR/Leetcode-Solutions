@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0665-non-decreasing-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1137-height-checker](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1137-height-checker) |
@@ -73,6 +74,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [3463-alternating-groups-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
 ## Divide and Conquer
 |  |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
