@@ -105,6 +105,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0670-maximum-swap](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [2481-strictly-palindromic-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Stack
 |  |
@@ -120,6 +121,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
