@@ -68,6 +68,7 @@
 | [0344-reverse-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -76,6 +77,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3540-hash-divided-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
