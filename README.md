@@ -111,6 +111,7 @@
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0670-maximum-swap) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2481-strictly-palindromic-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Stack
 |  |
