@@ -9,9 +9,8 @@ public:
         for (auto& [ch, freq] : mp) {
             freqVec.push_back({freq, ch});
         }
-         sort(freqVec.begin(), freqVec.end(), [](pair<int, char>& a, pair<int, char>& b) {
-            return a.first > b.first;  
-        });
+       
+        sort(freqVec.begin(), freqVec.end(), greater<pair<int, char>>());
         
          string ans="";
     for (auto& [freq, ch] : freqVec) {
