@@ -151,6 +151,7 @@
 | [1674-minimum-operations-to-make-array-equal](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2481-strictly-palindromic-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Stack
 |  |
 | ------- |
@@ -213,4 +214,8 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
