@@ -1,18 +1,16 @@
-
-
 class Solution {
 public:
     string makeFancyString(string s) {
         unordered_map<char, int> mp;
         string temp = "";
-
+        int count=0;
         for (char a : s) {
             if (temp.empty() || temp.back() != a) {
-                mp[a] = 1;  
+                count = 1;  
                 temp += a;  
             } else {
-                if (mp[a] < 2) {
-                    mp[a]++;
+                if (count < 2) {
+                    count++;
                     temp += a;
                 }
             }
