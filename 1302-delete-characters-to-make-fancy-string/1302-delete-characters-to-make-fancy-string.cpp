@@ -1,7 +1,6 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        unordered_map<char, int> mp;
         string temp = "";
         int count=0;
         for (char a : s) {
