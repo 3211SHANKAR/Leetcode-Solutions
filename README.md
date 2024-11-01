@@ -73,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0299-bulls-and-cows](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -182,6 +184,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
