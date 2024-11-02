@@ -103,6 +103,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2580-circular-sentence](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3540-hash-divided-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
