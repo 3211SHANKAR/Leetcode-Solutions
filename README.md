@@ -170,6 +170,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+| [2571-find-the-pivot-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2571-find-the-pivot-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
