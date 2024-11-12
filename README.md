@@ -22,6 +22,7 @@
 | [1923-sentence-similarity-iii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1945-finding-the-users-active-minutes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -64,6 +65,7 @@
 | [1137-height-checker](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
