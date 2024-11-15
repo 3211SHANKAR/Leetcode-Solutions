@@ -163,6 +163,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -219,6 +220,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
