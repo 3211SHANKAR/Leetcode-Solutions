@@ -37,6 +37,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3463-alternating-groups-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3463-alternating-groups-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
