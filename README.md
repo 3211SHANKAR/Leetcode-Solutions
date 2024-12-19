@@ -14,6 +14,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0665-non-decreasing-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0780-max-chunks-to-make-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -64,6 +65,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0780-max-chunks-to-make-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -183,6 +185,7 @@
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -202,6 +205,7 @@
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0670-maximum-swap](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0780-max-chunks-to-make-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3195-separate-black-and-white-balls](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
@@ -263,6 +267,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
