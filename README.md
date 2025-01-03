@@ -31,6 +31,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2571-find-the-pivot-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
