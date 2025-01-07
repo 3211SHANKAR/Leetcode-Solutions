@@ -20,6 +20,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1524-string-matching-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -121,6 +122,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
