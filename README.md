@@ -42,6 +42,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -134,6 +135,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3451-string-compression-iii) |
 | [3540-hash-divided-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
 ## Simulation
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -277,6 +280,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -290,4 +294,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
