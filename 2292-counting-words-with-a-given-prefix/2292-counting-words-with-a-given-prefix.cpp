@@ -1,16 +1,12 @@
 class Solution {
 public:
-     bool isprefix(string a,string b){
-        int n=a.size();
-         bool check = (b.substr(0, n) == a);
-         return check;
-        };
-
     int prefixCount(vector<string>& words, string pref) {
-        int ans=0;
+        int count=0;
+        int n=pref.size();
         for(int i=0;i<words.size();i++){
-            ans+=(int)isprefix(pref,words[i]);
+            if(words[i].substr(0,n)==pref)count++;
         }
-        return ans;
+        return count;
     }
 };
+
