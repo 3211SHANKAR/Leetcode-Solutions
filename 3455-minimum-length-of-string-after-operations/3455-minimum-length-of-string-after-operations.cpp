@@ -6,17 +6,17 @@ public:
         for(char a :s){
             mp[a]++;
         }
-        int remcount=0;
+        int ans=0;
         for(auto it=mp.begin();it!=mp.end();it++){
            int  length=it->second;
-           if(length%2!=0){
-            remcount+=length-1;
+           if(length%2==0 && length >=2){
+            ans+=2;
            }
            else{
-            remcount+=length-2;
+            ans+=1;
            }
         }
-        return s.size()-remcount;
+        return ans;
     }
 };
 
