@@ -68,6 +68,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3540-hash-divided-string) |
 ## Simulation
 |  |
