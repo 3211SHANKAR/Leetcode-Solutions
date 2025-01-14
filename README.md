@@ -43,6 +43,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3463-alternating-groups-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
@@ -67,6 +68,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
@@ -189,6 +191,7 @@
 | [0461-hamming-distance](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
 |  |
