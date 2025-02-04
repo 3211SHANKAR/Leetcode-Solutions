@@ -27,6 +27,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1945-finding-the-users-active-minutes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
