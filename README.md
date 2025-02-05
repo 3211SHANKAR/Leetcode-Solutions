@@ -130,6 +130,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0299-bulls-and-cows](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0344-reverse-string) |
