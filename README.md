@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
