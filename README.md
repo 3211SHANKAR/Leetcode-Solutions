@@ -240,6 +240,7 @@
 | [0002-add-two-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0263-ugly-number) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
