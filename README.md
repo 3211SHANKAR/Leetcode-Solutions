@@ -240,6 +240,7 @@
 | [0002-add-two-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
