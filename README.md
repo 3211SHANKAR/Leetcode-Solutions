@@ -239,6 +239,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
