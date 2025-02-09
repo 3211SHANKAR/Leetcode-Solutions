@@ -52,6 +52,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -86,6 +87,7 @@
 | [1945-finding-the-users-active-minutes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1945-finding-the-users-active-minutes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -125,6 +127,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
@@ -253,6 +256,7 @@
 | [1674-minimum-operations-to-make-array-equal](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
