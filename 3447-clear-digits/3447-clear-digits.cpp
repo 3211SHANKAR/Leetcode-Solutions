@@ -1,7 +1,7 @@
 class Solution {
 public:
     string clearDigits(string s) {
-        int i=0;
+        int i=1;
         while(i<=s.length()){
             if(isdigit(s[i])){
                 s.erase(i,1);
