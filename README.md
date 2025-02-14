@@ -147,6 +147,7 @@
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -169,6 +170,7 @@
 | [0299-bulls-and-cows](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -322,6 +324,7 @@
 | [0055-jump-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
