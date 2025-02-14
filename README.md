@@ -23,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0665-non-decreasing-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0665-non-decreasing-array) |
@@ -78,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -265,6 +267,7 @@
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -407,9 +410,14 @@
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
