@@ -34,6 +34,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -267,6 +268,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -314,6 +316,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -401,4 +404,12 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
