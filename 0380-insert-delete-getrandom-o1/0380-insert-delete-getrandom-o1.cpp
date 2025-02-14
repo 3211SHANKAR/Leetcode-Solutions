@@ -1,14 +1,6 @@
 class RandomizedSet {
 public:
      set<int>s;
-
-     template<typename S>
-auto select_random(const S &s, size_t n) {
-  auto it = std::begin(s);
-  // 'advance' the iterator n times
-  std::advance(it,n);
-  return it;
-}
     RandomizedSet() {
   
     }
@@ -35,11 +27,11 @@ auto select_random(const S &s, size_t n) {
     }
     
     int getRandom() {
-    
-   
-        auto it = rand()%s.size();
-        auto x= *select_random(s, it);
-        return x;
+  if (s.empty()) return -1; 
+        int index = rand() % s.size();
+        auto it = s.begin();
+        std::advance(it, index);
+        return *it;
         
     }
 };
