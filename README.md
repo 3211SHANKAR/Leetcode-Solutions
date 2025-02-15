@@ -279,6 +279,7 @@
 | [2481-strictly-palindromic-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
@@ -420,4 +421,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
