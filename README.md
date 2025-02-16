@@ -82,6 +82,7 @@
 | [0169-majority-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -129,6 +130,7 @@
 | [0169-majority-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1364-tuple-with-same-product](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -181,6 +183,7 @@
 | [0299-bulls-and-cows](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
