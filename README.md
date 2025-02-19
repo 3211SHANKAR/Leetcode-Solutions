@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -326,6 +327,7 @@
 | [0055-jump-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0670-maximum-swap](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
