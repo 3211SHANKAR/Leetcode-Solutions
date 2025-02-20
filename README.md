@@ -49,6 +49,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1945-finding-the-users-active-minutes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2107-find-unique-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -100,6 +101,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1945-finding-the-users-active-minutes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1945-finding-the-users-active-minutes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -217,6 +219,7 @@
 | [1923-sentence-similarity-iii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2502-sort-the-people](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -454,6 +457,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
