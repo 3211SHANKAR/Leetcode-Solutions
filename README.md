@@ -319,6 +319,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0780-max-chunks-to-make-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -452,6 +453,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
