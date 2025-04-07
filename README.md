@@ -30,6 +30,7 @@
 | [0274-h-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0665-non-decreasing-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -380,6 +381,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Brainteaser
