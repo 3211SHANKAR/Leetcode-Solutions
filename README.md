@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [1160-letter-tile-possibilities](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
