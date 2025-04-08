@@ -24,6 +24,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -89,6 +90,7 @@
 | [0001-two-sum](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -304,6 +306,7 @@
 | [0050-powx-n](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -484,4 +487,8 @@
 | [2107-find-unique-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
