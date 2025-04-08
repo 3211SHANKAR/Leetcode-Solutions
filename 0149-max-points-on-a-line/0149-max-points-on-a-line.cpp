@@ -6,22 +6,17 @@ public:
 
         int result=0;
         for(int i=0;i<points.size();i++){
-            for(int j=i+1;j<n;j++){
-                int count=2;
-                int dx=points[j][0]-points[i][0];
-                int dy=points[j][1]-points[i][1];
-               
-                for(int k=0;k<n;k++){
-                    if(k!=i && k!=j){
-                        int d_x=points[k][0]-points[i][0];
-                        int d_y=points[k][1]-points[i][1];
-
-                        if(dy*d_x==d_y*dx)count++;
-                    }
-                }
-                result=max(result,count);
+            unordered_map<double,int>mp;
+            for(int j=0;j<n;j++){
+                if(i==j)continue;
+                auto dx=points[j][0]-points[i][0];
+                auto dy=points[j][1]-points[i][1];
+                mp[atan2(dy,dx)]++;
             }
-        }
+               for(auto a:mp){
+                result=max(result,a.second+1);
+               }
+            }
         return result;
     }
 };
