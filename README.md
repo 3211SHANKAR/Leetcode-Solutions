@@ -219,6 +219,7 @@
 | [0392-is-subsequence](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0606-construct-string-from-binary-tree](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -426,6 +427,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -496,4 +498,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 <!---LeetCode Topics End-->
