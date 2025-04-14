@@ -1,7 +1,15 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-         if (n==1) return 1;
-       return (findTheWinner(n-1, k)+(k-1))%n+1;
+        vector<int>v(n,0);
+        for(int i=0;i<n;i++){
+            v[i]=i+1;
+        }
+        int idx=0;
+        for(int i=0;i<n;i++){
+            idx=(idx+k-1)%v.size();
+            v.erase(v.begin()+idx);
+        }
+        return v[0];
     }
 };
