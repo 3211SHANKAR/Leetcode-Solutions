@@ -291,6 +291,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Quickselect
 |  |
@@ -483,10 +484,12 @@
 | ------- |
 | [0155-min-stack](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
@@ -512,14 +515,20 @@
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
