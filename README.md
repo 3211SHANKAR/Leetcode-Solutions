@@ -58,6 +58,7 @@
 | [1945-finding-the-users-active-minutes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2107-find-unique-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2122-count-special-quadruplets](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -115,6 +116,7 @@
 | [1945-finding-the-users-active-minutes](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1945-finding-the-users-active-minutes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2122-count-special-quadruplets](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -514,5 +516,6 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [2122-count-special-quadruplets](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
