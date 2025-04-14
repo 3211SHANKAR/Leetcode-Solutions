@@ -104,6 +104,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -221,6 +222,7 @@
 | [0383-ransom-note](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0768-partition-labels](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -272,6 +274,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1755-defuse-the-bomb](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3463-alternating-groups-i](https://github.com/3211SHANKAR/Leetcode-Solutions/tree/master/3463-alternating-groups-i) |
